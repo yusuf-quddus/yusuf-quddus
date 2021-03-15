@@ -32,7 +32,7 @@
 
  - Learning Web Development
  
- - Club President of <a href="https://da-developers.dev/">Developer's Guild </a> at De Anza College for 2 years
+ - Club President of <a href="https://www.da-developers.dev/">Developer's Guild </a> at De Anza College for 2 years
    
  - Organizer of DA Hacks Hacktoberfest event: https://dahack.dev/
 
