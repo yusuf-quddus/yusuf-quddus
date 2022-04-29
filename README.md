@@ -58,13 +58,4 @@
 </p>
 -->
 
-<br />
- 
-<p align="center">
-   <img src="https://steemitimages.com/0x0/https://cdn.lifehacker.ru/wp-content/uploads/2017/01/ezgif.com-crop_1484563859.gif" />
-   </p>
-   
-   
-<br />
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
