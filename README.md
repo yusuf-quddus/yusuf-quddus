@@ -33,7 +33,7 @@
  
  - Club President of <a href="https://www.da-developers.dev/">Developer's Guild </a> at De Anza College for 2 years
    
- - Organizer of DA Hacks Hacktoberfest event: https://dahack.dev/
+ - Organizer of DA Hacks Hacktoberfest event (2019): https://dahack.dev/
 
  - 5 year Trumpet 🎺player and marching band performer
  
